@@ -2,7 +2,7 @@
 # Instagram-Clone-Vue3
 Supabase and the Composition API
 =======
-# instagram
+Using Supabase.com for database
 
 This template should help get you started developing with Vue 3 in Vite.
 
